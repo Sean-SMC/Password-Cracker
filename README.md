@@ -28,11 +28,11 @@ The project was developed in Visual Studio, with the OpenSSL library installed v
    - Use the corresponding number to select an operation (e.g., logging in, creating accounts, generating accounts, or cracking passwords).
    - Below are some screenshots of the interface:
 
-   ![Main Menu](ScreenShots/2.png)
-     *Main menu with on-screen commands.*
+   !(ScreenShots/2.png)
+     
 
-     ![Account Creation](ScreenShots/3.png)
-     *Creating a new account.*
+     !(ScreenShots/3.png)
+    
 
 2. **Cracking Accounts**:
    - When cracking passwords, you can specify the minimum and maximum password lengths to attempt.
